@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/public/fontawesome-free-6.4.0-web
+/fontawesome-free-6.4.0-web
 
 # testing
 /coverage
